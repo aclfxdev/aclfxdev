@@ -1,5 +1,5 @@
 <h1 align="center">Heyo, I'm Charles Zuck</h1>
-<h3 align="center">Developer from Orlando, FL, US.</h3>
+<h3 align="center">B.S. in I.T. graduate from UCF in Ocoee, FL, US.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aclfxdev&label=Profile%20views&color=27dda7&style=flat-square" alt="aclfxdev" /> </p>
 
